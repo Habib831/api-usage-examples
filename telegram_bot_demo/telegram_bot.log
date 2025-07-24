@@ -1,34 +1,34 @@
-2025-07-24 08:27:13,018 - ERROR - Missing required environment variables: BYBIT_API_KEY, BYBIT_API_SECRET, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
-2025-07-24 08:27:13,019 - INFO - Configuration validation passed
-2025-07-24 08:27:13,020 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,021 - INFO - Configuration validation passed
-2025-07-24 08:27:13,021 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,022 - INFO - Configuration validation passed
-2025-07-24 08:27:13,022 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,022 - ERROR - Unexpected error fetching price for BTCUSDT: API Error
-2025-07-24 08:27:13,023 - INFO - Configuration validation passed
-2025-07-24 08:27:13,024 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,024 - ERROR - Invalid API response structure: {'invalid': 'response'}
-2025-07-24 08:27:13,025 - INFO - Configuration validation passed
-2025-07-24 08:27:13,025 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,025 - INFO - Successfully fetched price for BTCUSDT: $45000.5678
-2025-07-24 08:27:13,026 - INFO - Configuration validation passed
-2025-07-24 08:27:13,026 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,026 - INFO - Successfully fetched price for BTCUSDT: $50000.1234
-2025-07-24 08:27:13,028 - INFO - Configuration validation passed
-2025-07-24 08:27:13,028 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:13,028 - ERROR - Telegram API error: API Error
-2025-07-24 08:27:13,028 - INFO - Retrying in 1 seconds...
-2025-07-24 08:27:14,029 - ERROR - Telegram API error: API Error
-2025-07-24 08:27:14,029 - INFO - Retrying in 2 seconds...
-2025-07-24 08:27:16,029 - ERROR - Telegram API error: API Error
-2025-07-24 08:27:16,029 - ERROR - Failed to send Telegram message after all retry attempts
-2025-07-24 08:27:16,031 - INFO - Configuration validation passed
-2025-07-24 08:27:16,031 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:16,031 - INFO - Telegram message sent successfully
-2025-07-24 08:27:16,032 - INFO - Configuration validation passed
-2025-07-24 08:27:16,033 - INFO - Bybit API session initialized successfully
-2025-07-24 08:27:16,033 - INFO - Successfully fetched price for BTCUSDT: $50000.0
-2025-07-24 08:27:16,033 - INFO - Telegram message sent successfully
-2025-07-24 08:27:29,866 - INFO - Configuration validation passed
-2025-07-24 08:27:29,866 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,095 - ERROR - Missing required environment variables: BYBIT_API_KEY, BYBIT_API_SECRET, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+2025-07-24 08:28:24,097 - INFO - Configuration validation passed
+2025-07-24 08:28:24,097 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,098 - INFO - Configuration validation passed
+2025-07-24 08:28:24,098 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,099 - INFO - Configuration validation passed
+2025-07-24 08:28:24,099 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,099 - ERROR - Unexpected error fetching price for BTCUSDT: API Error
+2025-07-24 08:28:24,101 - INFO - Configuration validation passed
+2025-07-24 08:28:24,101 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,101 - ERROR - Invalid API response structure: {'invalid': 'response'}
+2025-07-24 08:28:24,102 - INFO - Configuration validation passed
+2025-07-24 08:28:24,102 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,102 - INFO - Successfully fetched price for BTCUSDT: $45000.5678
+2025-07-24 08:28:24,103 - INFO - Configuration validation passed
+2025-07-24 08:28:24,103 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,103 - INFO - Successfully fetched price for BTCUSDT: $50000.1234
+2025-07-24 08:28:24,105 - INFO - Configuration validation passed
+2025-07-24 08:28:24,105 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:24,105 - ERROR - Telegram API error: API Error
+2025-07-24 08:28:24,105 - INFO - Retrying in 1 seconds...
+2025-07-24 08:28:25,105 - ERROR - Telegram API error: API Error
+2025-07-24 08:28:25,105 - INFO - Retrying in 2 seconds...
+2025-07-24 08:28:27,106 - ERROR - Telegram API error: API Error
+2025-07-24 08:28:27,106 - ERROR - Failed to send Telegram message after all retry attempts
+2025-07-24 08:28:27,107 - INFO - Configuration validation passed
+2025-07-24 08:28:27,108 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:27,108 - INFO - Telegram message sent successfully
+2025-07-24 08:28:27,109 - INFO - Configuration validation passed
+2025-07-24 08:28:27,109 - INFO - Bybit API session initialized successfully
+2025-07-24 08:28:27,109 - INFO - Successfully fetched price for BTCUSDT: $50000.0
+2025-07-24 08:28:27,109 - INFO - Telegram message sent successfully
+2025-07-24 08:28:38,418 - ERROR - Missing required environment variables: BYBIT_API_KEY, BYBIT_API_SECRET, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+2025-07-24 08:28:38,418 - ERROR - Failed to start bot: Missing required environment variables: BYBIT_API_KEY, BYBIT_API_SECRET, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
